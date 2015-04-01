@@ -1,7 +1,7 @@
 {
   "name": "sldap_node",
-  "version": "1.0.0",
-  "description": "A tool for node js to authorize in sogou.",
+  "version": "1.0.1",
+  "description": "A tool for node js to authorize.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js",
